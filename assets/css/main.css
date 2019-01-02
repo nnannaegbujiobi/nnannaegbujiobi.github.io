@@ -50,6 +50,9 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+.row {
+    overflow: hidden; 
+}
 
 body {
 	-webkit-text-size-adjust: none;
